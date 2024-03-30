@@ -5,11 +5,11 @@
 /**
  * Plugin public information.
  */
-public Plugin myInfo = {
+public Plugin myinfo = {
     name = "Antares Vampire",
     description = "Health interchange on damage dealt",
     author = "Antares",
-    version = "0.1.4",
+    version = "0.1.5",
     url = "none.test"
 };
 
